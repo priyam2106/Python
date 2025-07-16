@@ -1,0 +1,10 @@
+file '2258847.jpg'
+duration 1
+file '2882540.jpg'
+duration 1
+file '3849952.jpg'
+duration 1
+file '8088154.png'
+duration 1
+file '3822801.jpg'
+duration 1
